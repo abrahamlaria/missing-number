@@ -1,0 +1,7 @@
+C:\Projects\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe.config
+C:\Projects\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe
+C:\Projects\MissingNumber\MissingNumber\bin\Debug\MissingNumber.pdb
+C:\Projects\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csprojResolveAssemblyReference.cache
+C:\Projects\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Projects\MissingNumber\MissingNumber\obj\Debug\MissingNumber.exe
+C:\Projects\MissingNumber\MissingNumber\obj\Debug\MissingNumber.pdb
